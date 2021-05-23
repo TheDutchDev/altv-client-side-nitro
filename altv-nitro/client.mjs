@@ -1,5 +1,5 @@
 ///
-/// By Niels/DasNiels/DingoDongBlueBalls.
+/// By Niels/DasNiels.
 ///
 
 import * as alt from 'alt';
